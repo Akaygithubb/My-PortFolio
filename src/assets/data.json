@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "date": "01/07/2024",
+      "title": "TECHY STAR",
+      "description": "Empowering your business with reliable tech solutions. We handle everything from website development to network security.",
+      "url": "https://reactfirst-theta-ten.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "03/07/2024",
+      "title": "VIDEO HUB",
+      "description": "Dive into a world of endless entertainment. Our video hub curates the best content for you to watch",
+      "url": "https://react2-video-app.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+
+    {
+      "date": "05/07/2024",
+      "title": "REACT CART",
+      "description": "Fill your cart, simplify checkout. Your one-stop shop for smooth online shopping.",
+      "url": "https://react-cart-flax.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "07/07/2024",
+      "title": "PORTFOLIO",
+      "description": "Building innovative solutions. Check out my development portfolio.Coding with passion. Explore my software development projects.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
